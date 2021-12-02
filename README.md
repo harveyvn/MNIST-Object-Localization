@@ -22,10 +22,11 @@ Here, we define our custom CNN.
 - `define_and_compile_model`: choose the optimizer and metrics, then compile the model.
 
 <p align="center"><img src="(https://user-images.githubusercontent.com/3027146/144435076-92f42d82-d6e8-462e-9179-44b31cf84441.jpg" width="400"></p>
+
 ![CleanShot 2021-12-02 at 14 54 58](https://user-images.githubusercontent.com/3027146/144435483-5e8bb388-e276-44aa-bdd6-b4a5fa7f0256.jpg)
 
 # Make a prediction
 <p align="center"><img src="(https://user-images.githubusercontent.com/3027146/144435122-3bbc2072-088b-48e0-b7ef-75d2b07a3e7e.png" width="400"></p>
 
-![image](https://user-images.githubusercontent.com/3027146/144435419-b2ad5753-68dc-464b-a490-5a1219855805.png)
+![CleanShot 2021-12-02 at 14 55 41](https://user-images.githubusercontent.com/3027146/144435627-07feb8a3-d20a-4ad4-a86c-35c9ce3843b5.jpg)
 
